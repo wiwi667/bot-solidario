@@ -1,0 +1,38 @@
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Bot Application1.dll.config
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Bot Application1.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Bot Application1.pdb
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Autofac.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Chronic.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.Bot.Builder.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.Bot.Connector.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Newtonsoft.Json.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.Net.Http.Formatting.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.Web.Http.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.Web.Http.WebHost.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Autofac.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.Bot.Builder.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.Bot.Connector.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\Newtonsoft.Json.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.Net.Http.Formatting.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.Web.Http.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\System.Web.Http.WebHost.xml
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\obj\Release\Bot Application1.dll
+D:\Canales\BotApplicationSolidario\BotApplicationSolidario\obj\Release\Bot Application1.pdb
